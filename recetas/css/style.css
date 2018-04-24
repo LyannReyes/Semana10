@@ -1,0 +1,61 @@
+body{
+	background-color: olive;
+}
+
+header{
+	text-align: center;
+}
+
+h1{
+	color: #4d4d00;
+	font-family: "Elephant";
+	text-align: center;
+	font-size: 36px;
+	display: block;
+	background-color: #96cc00;
+}
+
+header img{
+	width: 500px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+}
+
+article{
+	text-align: center;
+	padding: 30px;
+	font-family: "Impact";
+	font-size: 20px;
+	width: 1230px;
+	height: 300px;
+	float: left;
+	margin: 38px;
+	display: block;
+	background-color:  #86b300;
+	color: #253300;
+	
+}
+
+h2{
+	text-align: center;
+	font-family: "AR JULIAN";
+	font-size: 32px;
+	color: #394d00;
+}
+
+footer{
+	color: #4d4d00;
+	font-family: "Elephant";
+	text-align: center;
+	font-size: 25px;
+}
+
+footer a{
+	text-decoration: none;
+	color: green;
+}
+
+footer a:hover{
+	color: yellow;
+}

@@ -1,0 +1,88 @@
+body{
+	background-color: olive;
+}
+
+h1{
+	color: #4d4d00;
+	font-family: "Elephant";
+	text-align: center;
+	font-size: 36px;
+	display: block;
+	background-color: #96cc00
+
+}
+
+nav{
+	text-align: center;
+	display: block;
+	background-color: #4d4d00;
+	word-spacing: normal;
+	text-decoration: none;
+	list-style-type: none; 
+	padding: 5px;
+}
+
+li a{
+	font-family: "Elephant";
+	text-decoration: none;
+	color: #4d6600;
+	font-size: 20px;
+}
+
+li a:hover{
+	background-color: #4d6600;
+	color: #4d4d00;
+}
+
+section{
+	width: 700px;
+	margin: auto;
+}
+
+article{
+	text-align: center;
+	width: 300px;
+	float: left;
+	height: 500px;
+	margin: 25px;
+	display: block;
+	background-color:  #86b300;
+	color: #253300;
+	font-family: "Impact";
+	font-size: 20px;
+}
+
+h2{
+	text-align: center;
+	font-family: "AR JULIAN";
+	font-size: 25px;
+	color: #394d00;
+}
+
+article a{
+	text-decoration: none;
+}
+
+article a:hover{
+	color: yellow;
+}
+
+#bandera{
+	width: 300px;
+	height: 300px;
+}
+
+#sancocho{
+	width: 300px;
+	height: 300px;
+}
+
+#habichuela{
+	width: 300px;
+	height: 300px;
+}
+
+#asopao{
+	width: 300px;
+	height: 300px;
+}
